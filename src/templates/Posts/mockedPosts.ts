@@ -1,0 +1,32 @@
+export const mockedPosts = [
+  {
+    category: 'category',
+    date: '',
+    id: '838438',
+    image: '',
+    title: 'Pitch termsheet backing validation focus release.',
+    url: '/',
+    userName: 'Chandler Bing',
+    userPath: '',
+  },
+  {
+    category: 'category',
+    date: '',
+    id: '56866',
+    image: '',
+    title: 'Pitch termsheet backing validation focus release.',
+    url: '/',
+    userName: 'Rachel Green',
+    userPath: '',
+  },
+  {
+    category: 'category',
+    date: '',
+    id: '656556',
+    image: '',
+    title: 'Pitch termsheet backing validation focus release.',
+    url: '/',
+    userName: 'Monica Gelle',
+    userPath: '',
+  },
+];
